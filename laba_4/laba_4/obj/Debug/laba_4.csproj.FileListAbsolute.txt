@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\laba_4\laba_4\bin\Debug\laba_4.exe.config
+C:\Users\PC\source\repos\laba_4\laba_4\bin\Debug\laba_4.exe
+C:\Users\PC\source\repos\laba_4\laba_4\bin\Debug\laba_4.pdb
+C:\Users\PC\source\repos\laba_4\laba_4\obj\Debug\laba_4.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\laba_4\laba_4\obj\Debug\laba_4.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\laba_4\laba_4\obj\Debug\laba_4.exe
+C:\Users\PC\source\repos\laba_4\laba_4\obj\Debug\laba_4.pdb

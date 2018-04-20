@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Graphic\lab2\obj\Debug\lab2.Форма.resources
+C:\Users\PC\source\repos\Graphic\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\PC\source\repos\Graphic\lab2\obj\Debug\Form-lines.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Graphic\lab2\obj\Debug\Form-lines.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Graphic\lab2\obj\Debug\lab2.exe
+C:\Users\PC\source\repos\Graphic\lab2\obj\Debug\lab2.pdb
+C:\Users\PC\source\repos\Graphic\lab2\bin\Debug\lab2.exe.config
+C:\Users\PC\source\repos\Graphic\lab2\bin\Debug\lab2.exe
+C:\Users\PC\source\repos\Graphic\lab2\bin\Debug\lab2.pdb

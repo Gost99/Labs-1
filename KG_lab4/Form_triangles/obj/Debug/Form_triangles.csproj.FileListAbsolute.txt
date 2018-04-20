@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\bin\Debug\Form_triangles.exe.config
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\bin\Debug\Form_triangles.exe
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\bin\Debug\Form_triangles.pdb
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.Form_triangles.resources
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.Properties.Resources.resources
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.exe
+C:\Users\PC\source\repos\KG_lab4\Form_triangles\obj\Debug\Form_triangles.pdb

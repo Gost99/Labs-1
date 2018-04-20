@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Tolik\Tolik\bin\Debug\Tolik.exe.config
+C:\Users\PC\source\repos\Tolik\Tolik\bin\Debug\Tolik.exe
+C:\Users\PC\source\repos\Tolik\Tolik\bin\Debug\Tolik.pdb
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.Form1.resources
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.Properties.Resources.resources
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.exe
+C:\Users\PC\source\repos\Tolik\Tolik\obj\Debug\Tolik.pdb

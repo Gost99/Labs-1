@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab8\FormGR\bin\Debug\FormGR.exe.config
+C:\Users\PC\source\repos\Lab8\FormGR\bin\Debug\FormGR.exe
+C:\Users\PC\source\repos\Lab8\FormGR\bin\Debug\FormGR.pdb
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.exe
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.pdb
+C:\Users\PC\source\repos\Lab8\FormGR\obj\Debug\FormGR.FormGR.resources

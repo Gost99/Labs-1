@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\bin\Debug\kldsfgalkb.exe.config
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\bin\Debug\kldsfgalkb.exe
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\bin\Debug\kldsfgalkb.pdb
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.Form1.resources
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.Properties.Resources.resources
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.exe
+C:\Users\PC\source\repos\kldsfgalkb\kldsfgalkb\obj\Debug\kldsfgalkb.pdb

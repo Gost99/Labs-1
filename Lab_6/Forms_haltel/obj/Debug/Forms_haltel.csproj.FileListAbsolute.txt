@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\bin\Debug\Forms_haltel.exe.config
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\bin\Debug\Forms_haltel.exe
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\bin\Debug\Forms_haltel.pdb
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.Form1.resources
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.exe
+C:\Users\PC\source\repos\Lab_6\Forms_haltel\obj\Debug\Forms_haltel.pdb

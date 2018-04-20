@@ -1,0 +1,9 @@
+{
+  "name": "turing",
+  "version": "0.0.0",
+  "description": "turing",
+  "main": "app.js",
+  "author": {
+    "name": "PC"
+  }
+}

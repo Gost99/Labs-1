@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Memoized\Memoized\bin\Debug\Memoized.exe.config
+C:\Users\PC\source\repos\Memoized\Memoized\bin\Debug\Memoized.exe
+C:\Users\PC\source\repos\Memoized\Memoized\bin\Debug\Memoized.pdb
+C:\Users\PC\source\repos\Memoized\Memoized\obj\Debug\Memoized.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Memoized\Memoized\obj\Debug\Memoized.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Memoized\Memoized\obj\Debug\Memoized.exe
+C:\Users\PC\source\repos\Memoized\Memoized\obj\Debug\Memoized.pdb

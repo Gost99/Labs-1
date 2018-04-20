@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\bin\Debug\Tree(BlackandRed).exe.config
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\bin\Debug\Tree(BlackandRed).exe
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\bin\Debug\Tree(BlackandRed).pdb
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\obj\Debug\Tree(BlackandRed).csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\obj\Debug\Tree(BlackandRed).csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\obj\Debug\Tree(BlackandRed).exe
+C:\Users\PC\source\repos\Tree(BlackandRed)\Tree(BlackandRed)\obj\Debug\Tree(BlackandRed).pdb

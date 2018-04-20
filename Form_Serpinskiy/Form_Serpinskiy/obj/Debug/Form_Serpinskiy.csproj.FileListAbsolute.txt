@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\obj\Debug\Form_Serpinskiy.Form_Serpinskiy.resources
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\obj\Debug\Form_Serpinskiy.Properties.Resources.resources
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\obj\Debug\Form_Serpinskiy.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\obj\Debug\Form_Serpinskiy.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\bin\Debug\Form_Serpinskiy.exe.config
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\bin\Debug\Form_Serpinskiy.exe
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\bin\Debug\Form_Serpinskiy.pdb
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\obj\Debug\Form_Serpinskiy.exe
+C:\Users\PC\source\repos\Form_Serpinskiy\Form_Serpinskiy\obj\Debug\Form_Serpinskiy.pdb

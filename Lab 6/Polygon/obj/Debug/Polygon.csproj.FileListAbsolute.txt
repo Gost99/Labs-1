@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab 6\Polygon\bin\Debug\Polygon.exe.config
+C:\Users\PC\source\repos\Lab 6\Polygon\bin\Debug\Polygon.exe
+C:\Users\PC\source\repos\Lab 6\Polygon\bin\Debug\Polygon.pdb
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.exe
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.pdb
+C:\Users\PC\source\repos\Lab 6\Polygon\obj\Debug\Polygon.PolygonForm.resources

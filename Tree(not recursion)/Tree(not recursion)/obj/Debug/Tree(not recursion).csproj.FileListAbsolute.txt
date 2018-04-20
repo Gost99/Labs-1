@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\obj\Debug\Tree(not recursion).csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\obj\Debug\Tree(not recursion).csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\bin\Debug\Tree(not recursion).exe.config
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\bin\Debug\Tree(not recursion).exe
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\bin\Debug\Tree(not recursion).pdb
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\obj\Debug\Tree(not recursion).exe
+C:\Users\PC\source\repos\Tree(not recursion)\Tree(not recursion)\obj\Debug\Tree(not recursion).pdb

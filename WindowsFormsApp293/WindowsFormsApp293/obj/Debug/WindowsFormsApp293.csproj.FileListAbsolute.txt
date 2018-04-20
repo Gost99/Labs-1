@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.Properties.Resources.resources
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\bin\Debug\WindowsFormsApp293.exe.config
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\bin\Debug\WindowsFormsApp293.exe
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\bin\Debug\WindowsFormsApp293.pdb
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.exe
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.pdb
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.Form1.resources

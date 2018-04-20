@@ -1,0 +1,10 @@
+c:\users\pc\source\repos\Haltel\Haltel\obj\Debug\Haltel.roundButton.resources
+c:\users\pc\source\repos\Haltel\Haltel\obj\Debug\Haltel.Properties.Resources.resources
+c:\users\pc\source\repos\Haltel\Haltel\obj\Debug\Haltel.csproj.GenerateResource.Cache
+c:\users\pc\source\repos\Haltel\Haltel\obj\Debug\Haltel.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\Haltel\Haltel\bin\Debug\Haltel.exe.config
+c:\users\pc\source\repos\Haltel\Haltel\bin\Debug\Haltel.exe
+c:\users\pc\source\repos\Haltel\Haltel\bin\Debug\Haltel.pdb
+c:\users\pc\source\repos\Haltel\Haltel\obj\Debug\Haltel.exe
+c:\users\pc\source\repos\Haltel\Haltel\obj\Debug\Haltel.pdb
+C:\Users\PC\source\repos\Haltel\Haltel\obj\Debug\Haltel.csprojResolveAssemblyReference.cache

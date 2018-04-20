@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.FormMove.resources
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.Properties.Resources.resources
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\lab12\FormMove\bin\Debug\FormMove.exe.config
+C:\Users\PC\source\repos\lab12\FormMove\bin\Debug\FormMove.exe
+C:\Users\PC\source\repos\lab12\FormMove\bin\Debug\FormMove.pdb
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.exe
+C:\Users\PC\source\repos\lab12\FormMove\obj\Debug\FormMove.pdb

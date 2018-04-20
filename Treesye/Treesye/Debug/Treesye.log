@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\pc\source\repos\treesye\treesye\source.cpp(347): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Treesye.vcxproj -> C:\Users\PC\source\repos\Treesye\Debug\Treesye.exe

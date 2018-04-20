@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "BotProject/1.0.0": {
+        "dependencies": {
+          "BotLibrary": "1.0.0",
+          "Instance": "1.0.0",
+          "WindowsFormsApp1": "1.0.0",
+          "System.Windows.Forms": "4.0.0.0"
+        },
+        "runtime": {
+          "BotProject.dll": {}
+        }
+      },
+      "BotLibrary/1.0.0": {
+        "runtime": {
+          "BotLibrary.dll": {}
+        }
+      },
+      "Instance/1.0.0": {
+        "runtime": {
+          "Instance.exe": {}
+        }
+      },
+      "WindowsFormsApp1/1.0.0": {
+        "runtime": {
+          "WindowsFormsApp1.exe": {}
+        }
+      },
+      "System.Windows.Forms/4.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BotLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Instance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowsFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

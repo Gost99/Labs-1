@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Bot_Project\constructor\obj\Debug\netcoreapp2.0\constructor.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Bot_Project\constructor\obj\Debug\netcoreapp2.0\constructor.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Bot_Project\constructor\obj\Debug\netcoreapp2.0\constructor.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Bot_Project\constructor\obj\Debug\netcoreapp2.0\constructor.AssemblyInfo.cs
+C:\Users\PC\source\repos\Bot_Project\constructor\bin\Debug\netcoreapp2.0\constructor.deps.json
+C:\Users\PC\source\repos\Bot_Project\constructor\bin\Debug\netcoreapp2.0\constructor.runtimeconfig.json
+C:\Users\PC\source\repos\Bot_Project\constructor\bin\Debug\netcoreapp2.0\constructor.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Bot_Project\constructor\bin\Debug\netcoreapp2.0\constructor.dll
+C:\Users\PC\source\repos\Bot_Project\constructor\bin\Debug\netcoreapp2.0\constructor.pdb
+C:\Users\PC\source\repos\Bot_Project\constructor\obj\Debug\netcoreapp2.0\constructor.dll
+C:\Users\PC\source\repos\Bot_Project\constructor\obj\Debug\netcoreapp2.0\constructor.pdb

@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\bin\Debug\Form_rectangls.exe.config
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\bin\Debug\Form_rectangls.exe
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\bin\Debug\Form_rectangls.pdb
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Form_rectangls.Form_rectangles.resources
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Form_rectangls.Properties.Resources.resources
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Form_rectangls.exe
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Form_rectangls.pdb
+C:\Users\PC\source\repos\KG_3laba\Form_rectangls\obj\Debug\Lab3.csprojResolveAssemblyReference.cache

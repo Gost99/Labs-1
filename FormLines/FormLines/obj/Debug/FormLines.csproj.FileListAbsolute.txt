@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\FormLines\FormLines\obj\Debug\FormLines.Form1.resources
+C:\Users\PC\source\repos\FormLines\FormLines\obj\Debug\FormLines.Properties.Resources.resources
+C:\Users\PC\source\repos\FormLines\FormLines\obj\Debug\FormLines.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\FormLines\FormLines\obj\Debug\FormLines.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FormLines\FormLines\obj\Debug\FormLines.Форма.resources
+C:\Users\PC\source\repos\FormLines\FormLines\obj\Debug\FormLines.FormLines.resources

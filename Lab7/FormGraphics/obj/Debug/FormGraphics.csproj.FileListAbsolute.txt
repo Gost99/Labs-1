@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab7\FormGraphics\bin\Debug\FormGraphics.exe.config
+C:\Users\PC\source\repos\Lab7\FormGraphics\bin\Debug\FormGraphics.exe
+C:\Users\PC\source\repos\Lab7\FormGraphics\bin\Debug\FormGraphics.pdb
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.exe
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.pdb
+C:\Users\PC\source\repos\Lab7\FormGraphics\obj\Debug\FormGraphics.FormGraphics.resources

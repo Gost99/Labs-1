@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\bin\Debug\Serpinskiy_triangle.exe.config
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\bin\Debug\Serpinskiy_triangle.exe
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\bin\Debug\Serpinskiy_triangle.pdb
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\obj\Debug\Serpinskiy_triangle.Form1.resources
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\obj\Debug\Serpinskiy_triangle.Properties.Resources.resources
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\obj\Debug\Serpinskiy_triangle.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\obj\Debug\Serpinskiy_triangle.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\obj\Debug\Serpinskiy_triangle.exe
+C:\Users\PC\source\repos\Serpinskiy_triangle\Serpinskiy_triangle\obj\Debug\Serpinskiy_triangle.pdb

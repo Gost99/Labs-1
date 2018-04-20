@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.Properties.Resources.resources
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\bin\Debug\Form_Snowflake.exe.config
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\bin\Debug\Form_Snowflake.exe
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\bin\Debug\Form_Snowflake.pdb
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.button.resources
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.exe
+C:\Users\PC\source\repos\Form_Snowflake\Form_Snowflake\obj\Debug\Form_Snowflake.pdb

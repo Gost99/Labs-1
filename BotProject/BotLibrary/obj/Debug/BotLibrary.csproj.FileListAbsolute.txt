@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\BotProject\BotLibrary\bin\Debug\BotLibrary.dll
+C:\Users\PC\source\repos\BotProject\BotLibrary\bin\Debug\BotLibrary.pdb
+C:\Users\PC\source\repos\BotProject\BotLibrary\obj\Debug\BotLibrary.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\BotProject\BotLibrary\obj\Debug\BotLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BotProject\BotLibrary\obj\Debug\BotLibrary.dll
+C:\Users\PC\source\repos\BotProject\BotLibrary\obj\Debug\BotLibrary.pdb

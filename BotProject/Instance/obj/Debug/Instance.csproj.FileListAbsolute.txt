@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\BotProject\Instance\bin\Debug\Instance.exe.config
+C:\Users\PC\source\repos\BotProject\Instance\bin\Debug\Instance.exe
+C:\Users\PC\source\repos\BotProject\Instance\bin\Debug\Instance.pdb
+C:\Users\PC\source\repos\BotProject\Instance\obj\Debug\Instance.Form1.resources
+C:\Users\PC\source\repos\BotProject\Instance\obj\Debug\Instance.Properties.Resources.resources
+C:\Users\PC\source\repos\BotProject\Instance\obj\Debug\Instance.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\BotProject\Instance\obj\Debug\Instance.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BotProject\Instance\obj\Debug\Instance.exe
+C:\Users\PC\source\repos\BotProject\Instance\obj\Debug\Instance.pdb

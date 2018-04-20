@@ -1,0 +1,7 @@
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\bin\Debug\DynamicProgramming.exe.config
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\bin\Debug\DynamicProgramming.exe
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\bin\Debug\DynamicProgramming.pdb
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\obj\Debug\DynamicProgramming.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\obj\Debug\DynamicProgramming.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\obj\Debug\DynamicProgramming.exe
+c:\users\pc\source\repos\DynamicProgramming\DynamicProgramming\obj\Debug\DynamicProgramming.pdb

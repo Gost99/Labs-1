@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\FormLines1\FormLines1\bin\Debug\FormLines1.exe.config
+C:\Users\PC\source\repos\FormLines1\FormLines1\bin\Debug\FormLines1.exe
+C:\Users\PC\source\repos\FormLines1\FormLines1\bin\Debug\FormLines1.pdb
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.FormLines1.resources
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.Properties.Resources.resources
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.exe
+C:\Users\PC\source\repos\FormLines1\FormLines1\obj\Debug\FormLines1.pdb

@@ -1,0 +1,7 @@
+c:\users\pc\source\repos\Exapmle\Exapmle\obj\Debug\Exapmle.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\Exapmle\Exapmle\bin\Debug\Exapmle.exe.config
+c:\users\pc\source\repos\Exapmle\Exapmle\bin\Debug\Exapmle.exe
+c:\users\pc\source\repos\Exapmle\Exapmle\bin\Debug\Exapmle.pdb
+c:\users\pc\source\repos\Exapmle\Exapmle\obj\Debug\Exapmle.exe
+c:\users\pc\source\repos\Exapmle\Exapmle\obj\Debug\Exapmle.pdb
+c:\users\pc\source\repos\Exapmle\Exapmle\obj\Debug\Exapmle.csprojResolveAssemblyReference.cache
