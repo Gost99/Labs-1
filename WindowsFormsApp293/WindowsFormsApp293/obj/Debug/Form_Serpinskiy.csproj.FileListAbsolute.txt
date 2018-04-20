@@ -1,9 +1,0 @@
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\bin\Debug\WindowsFormsApp293.exe.config
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\bin\Debug\WindowsFormsApp293.exe
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\bin\Debug\WindowsFormsApp293.pdb
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.Form_Serpinskiy.resources
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.Properties.Resources.resources
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\Form_Serpinskiy.csproj.GenerateResource.Cache
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\Form_Serpinskiy.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.exe
-C:\Users\PC\source\repos\WindowsFormsApp293\WindowsFormsApp293\obj\Debug\WindowsFormsApp293.pdb

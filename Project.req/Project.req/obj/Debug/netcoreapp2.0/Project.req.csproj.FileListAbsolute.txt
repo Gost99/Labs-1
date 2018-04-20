@@ -1,4 +1,0 @@
-c:\users\pc\source\repos\Project.req\Project.req\obj\Debug\netcoreapp2.0\Project.req.csprojResolveAssemblyReference.cache
-c:\users\pc\source\repos\Project.req\Project.req\obj\Debug\netcoreapp2.0\Project.req.csproj.CoreCompileInputs.cache
-c:\users\pc\source\repos\Project.req\Project.req\obj\Debug\netcoreapp2.0\Project.req.AssemblyInfoInputs.cache
-c:\users\pc\source\repos\Project.req\Project.req\obj\Debug\netcoreapp2.0\Project.req.AssemblyInfo.cs

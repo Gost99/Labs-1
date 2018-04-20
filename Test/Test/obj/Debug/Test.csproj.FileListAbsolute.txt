@@ -8,3 +8,13 @@ C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
 C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.exe
 C:\Users\PC\source\repos\Test\Test\obj\Debug\Test.pdb
+C:\Users\PC\Labs\Test\Test\bin\Debug\Test.exe.config
+C:\Users\PC\Labs\Test\Test\bin\Debug\Test.exe
+C:\Users\PC\Labs\Test\Test\bin\Debug\Test.pdb
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.FormBody.resources
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.exe
+C:\Users\PC\Labs\Test\Test\obj\Debug\Test.pdb
