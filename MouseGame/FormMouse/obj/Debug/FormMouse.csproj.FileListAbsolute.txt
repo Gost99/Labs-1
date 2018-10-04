@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab10\FormMouse\bin\Debug\FormMouse.exe.config
+C:\Users\PC\source\repos\Lab10\FormMouse\bin\Debug\FormMouse.exe
+C:\Users\PC\source\repos\Lab10\FormMouse\bin\Debug\FormMouse.pdb
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.exe
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.pdb
+C:\Users\PC\source\repos\Lab10\FormMouse\obj\Debug\FormMouse.FormMouse.resources

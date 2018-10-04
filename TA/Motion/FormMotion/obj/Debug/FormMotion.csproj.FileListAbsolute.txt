@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.csprojResolveAssemblyReference.cache
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.Properties.Resources.resources
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.csproj.GenerateResource.Cache
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab9\FormMotion\bin\Debug\FormMotion.exe.config
+C:\Users\PC\source\repos\Lab9\FormMotion\bin\Debug\FormMotion.exe
+C:\Users\PC\source\repos\Lab9\FormMotion\bin\Debug\FormMotion.pdb
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.exe
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.pdb
+C:\Users\PC\source\repos\Lab9\FormMotion\obj\Debug\FormMotion.FormGame.resources
