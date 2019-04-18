@@ -1,0 +1,171 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.height{
+  height: 70%;
+}
+
+.background {
+  background-color: black;
+}
+
+.nav{
+  border-bottom: 1px solid #EAEAEB;
+  text-align: right;
+  height: 70px;
+  line-height: 70px;
+}
+
+.menu{
+  margin: 0 30px 0 0;
+}
+
+.menu a{
+  clear: right;
+  text-decoration: none;
+  color: gray;
+  margin: 0px 10px;
+  line-height: 70px;
+}
+
+span{
+  color: #54D17A;
+}
+
+label{
+  margin: 0 40px 0 0;
+  font-size: 26px;
+  line-height: 70px;
+  display: none;
+  width: 26px;
+  float: right ;
+}
+#toggle{
+  display: none;
+}
+
+body {
+  margin-left: 0px;
+  font-size: 10px;
+  height: 100%;
+}
+
+h1,
+h2 {
+  margin-top: 5%;
+  color: white;
+
+}
+
+.Paragraph {
+  color: white;
+  margin-top: 100px;
+  margin-left: 70px;
+  font-size: 300%;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-left: 70px;
+  font-size: 110%;
+}
+
+h2 {
+  margin-left: 70px;
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 50%;
+  text-decoration: none;
+
+}
+
+p {
+  font-size: 200%;
+}
+
+.pos {
+  position: sticky;
+  margin-top: 10%;
+  margin-left: 40px;
+}
+
+.brend {
+  position: relative;
+  margin-left: 80%;
+  top: 5%;
+  background-image: url('../img/Emblem.PNG');
+  background-size: cover ; 
+  background-repeat: no-repeat;
+  height: 40vh;
+}
+
+.img {
+  position: static;
+  margin-top: 30px;
+  background-image: url('../img/Car2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 80vh;
+  width: 100%;
+}
+
+.link {
+  margin-left: 50%;
+  color: white;
+  text-decoration: none;
+}
+
+.top {
+  height: 50px;
+  background-color: black;
+}
+
+.main {
+  margin: 80px;
+}
+
+li {
+  float: right;
+}
+
+.Number {
+  padding-left: 20px
+}
+
+@media(min-width:1800px) {
+  body {
+    font-size: 100%;
+  }
+}
+
+@media only screen and (max-width:768px){
+  label{
+    display: block;
+    cursor: pointer;
+  }
+  .menu{
+    text-align: center;
+    width: 100%;
+    display:none;
+}
+  .menu a{
+    display: block;
+    border-bottom: 1px solid #EAEAEB;
+    margin: 0;
+  }
+  #toggle:checked + .menu{
+    display: block;
+  }
+  .main{
+    margin-top: 220px;
+  }
+}
+
+@media screen and (min-height: 1000px){
+  .img{
+  }
+}
